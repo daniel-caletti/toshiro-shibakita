@@ -5,4 +5,3 @@ CREATE TABLE dados (
     Endereco varchar(150),
     Cidade varchar(50),
     Host varchar(50)
-);
